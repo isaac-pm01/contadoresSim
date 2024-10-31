@@ -1,0 +1,14 @@
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\bin\Debug\net8.0\contadoresSim.exe
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\bin\Debug\net8.0\contadoresSim.deps.json
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\bin\Debug\net8.0\contadoresSim.runtimeconfig.json
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\bin\Debug\net8.0\contadoresSim.dll
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\bin\Debug\net8.0\contadoresSim.pdb
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\contadoresSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\contadoresSim.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\contadoresSim.AssemblyInfo.cs
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\contadoresSim.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\contadoresSim.dll
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\refint\contadoresSim.dll
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\contadoresSim.pdb
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\contadoresSim.genruntimeconfig.cache
+C:\Users\isaac\Desktop\Isaac\VS Repos\contadoresSim\contadoresSim\obj\Debug\net8.0\ref\contadoresSim.dll
